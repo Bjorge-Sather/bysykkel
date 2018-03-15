@@ -11,6 +11,6 @@ Comments on solution:
 I wanted to write an Android app, but didn't have a Windows machine with an OS that would run the Android emulator, so - ended up with a WinForms application :-).
 
 Comments on the API spec / Json classes written from API examples & real-world received data:
-- station.in_service was not mentioned in the API pages, but forund in returned dataset.
+- station.in_service was not mentioned in the API pages, but found in returned dataset.
 - I defined status.stations_closed as int[], but have really no idea whether these are station ids or not.
 - Also, there is a question: What is the correlation between station.in_service and status.stations_closed ?
