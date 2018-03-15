@@ -1,0 +1,7 @@
+api_identifier
+*.dll
+*.exe
+*.pdb
+*.exe.config
+/obj
+/bin
